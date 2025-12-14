@@ -45,6 +45,6 @@ Si quieres ver el proyecto en tu máquina:
 
 ---
 
-### 👨‍💻 Nota del Desarrollador (8 meses de experiencia)
+### 👨‍💻 Nota del Desarrollador
 
 Este ejercicio, realizado originalmente como parte de un curso en línea, fue excelente para afianzar conceptos fundamentales del desarrollo *frontend*. Me permitió trabajar directamente con la **manipulación del estado visual** y gestionar **flujos asíncronos** (simulados con `setTimeout`), algo crucial para cualquier comunicación con el *backend*. Además, se demuestra un manejo limpio de la captura de datos del usuario con los *event listeners* y la API `FormData`.
